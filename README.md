@@ -67,9 +67,6 @@ https://arxiv.org/pdf/1812.03224
 Applied Federated Learning: Improving Google Keyboard Query Suggestions 
 https://arxiv.org/pdf/1812.02903
 
-Differentially Private Data Generative Models 
-https://arxiv.org/pdf/1812.02274
-
 Split learning for health: Distributed deep learning without sharing raw patient data 
 https://arxiv.org/pdf/1812.00564
 
@@ -117,3 +114,5 @@ https://arxiv.org/abs/1907.10218
 How To Backdoor Federated Learning
 https://arxiv.org/abs/1807.00459
 
+Differentially Private Data Generative Models 
+https://arxiv.org/pdf/1812.02274
