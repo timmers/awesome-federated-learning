@@ -4,6 +4,9 @@ A curated list of resources dedicated to federated learning.
 Please feel free to [pull requests](https://github.com/timmers/awesome-federated-learning/pulls)
 # Papers and Code
 
+original paper: Communication-Efficient Learning of Deep Networks from Decentralized Data
+https://arxiv.org/abs/1602.05629
+
 Asynchronous Federated Optimization 
 https://arxiv.org/pdf/1903.03934
 
