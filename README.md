@@ -97,4 +97,15 @@ https://arxiv.org/pdf/1811.09712
 A Federated Learning Approach for Mobile Packet Classification
 https://arxiv.org/abs/1907.13113
 
+## Attacks on Federated Learning:
+
+Exploiting Unintended Feature Leakage in Collaborative Learning
+https://arxiv.org/abs/1805.04049
+
+Analyzing Federated Learning through an Adversarial Lens
+https://arxiv.org/abs/1811.12470
+
+Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning
+https://arxiv.org/abs/1702.07464
+
 
