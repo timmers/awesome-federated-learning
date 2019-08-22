@@ -88,6 +88,12 @@ https://arxiv.org/pdf/1811.09712
 A Federated Learning Approach for Mobile Packet Classification
 https://arxiv.org/abs/1907.13113
 
+Collaborative Learning on the Edges: A Case Study on Connected Vehicles
+https://www.usenix.org/conference/hotedge19/presentation/lu
+
+Federated Learning for Time Series Forecasting Using Hybrid Model
+http://www.diva-portal.se/smash/get/diva2:1334629/FULLTEXT01.pdf
+
 ## Adversarial Federated Learning (attacks and defenses):
 
 Beyond Inferring Class Representatives: User-Level Privacy Leakage From Federated Learning 
@@ -104,4 +110,10 @@ https://arxiv.org/abs/1702.07464
 
 Protection Against Reconstruction and Its Applications in Private Federated Learning 
 https://arxiv.org/pdf/1812.00984
+
+Boosting Privately: Privacy-Preserving Federated Extreme Boosting for Mobile Crowdsensing
+https://arxiv.org/abs/1907.10218
+
+How To Backdoor Federated Learning
+https://arxiv.org/abs/1807.00459
 
