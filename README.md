@@ -90,3 +90,8 @@ https://arxiv.org/pdf/1811.09904
 
 Dancing in the Dark: Private Multi-Party Machine Learning in an Untrusted Setting 
 https://arxiv.org/pdf/1811.09712
+
+A Federated Learning Approach for Mobile Packet Classification
+https://arxiv.org/abs/1907.13113
+
+
