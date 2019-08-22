@@ -70,20 +70,11 @@ https://arxiv.org/pdf/1812.02903
 Differentially Private Data Generative Models 
 https://arxiv.org/pdf/1812.02274
 
-Protection Against Reconstruction and Its Applications in Private Federated Learning 
-https://arxiv.org/pdf/1812.00984
-
 Split learning for health: Distributed deep learning without sharing raw patient data 
 https://arxiv.org/pdf/1812.00564
 
-Beyond Inferring Class Representatives: User-Level Privacy Leakage From Federated Learning 
-https://arxiv.org/pdf/1812.00535
-
 LoAdaBoost:Loss-Based AdaBoost Federated Machine Learning on medical Data 
 https://arxiv.org/pdf/1811.12629
-
-Analyzing Federated Learning through an Adversarial Lens
-https://arxiv.org/pdf/1811.12470
 
 Communication-Efficient On-Device Machine Learning: Federated Distillation and Augmentation under Non-IID Private Data
 https://arxiv.org/pdf/1811.11479
@@ -97,7 +88,10 @@ https://arxiv.org/pdf/1811.09712
 A Federated Learning Approach for Mobile Packet Classification
 https://arxiv.org/abs/1907.13113
 
-## Attacks on Federated Learning:
+## Adversarial Federated Learning (attacks and defenses):
+
+Beyond Inferring Class Representatives: User-Level Privacy Leakage From Federated Learning 
+https://arxiv.org/pdf/1812.00535
 
 Exploiting Unintended Feature Leakage in Collaborative Learning
 https://arxiv.org/abs/1805.04049
@@ -108,4 +102,6 @@ https://arxiv.org/abs/1811.12470
 Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning
 https://arxiv.org/abs/1702.07464
 
+Protection Against Reconstruction and Its Applications in Private Federated Learning 
+https://arxiv.org/pdf/1812.00984
 
