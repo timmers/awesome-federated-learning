@@ -91,6 +91,9 @@ https://www.usenix.org/conference/hotedge19/presentation/lu
 Federated Learning for Time Series Forecasting Using Hybrid Model
 http://www.diva-portal.se/smash/get/diva2:1334629/FULLTEXT01.pdf
 
+Federated Learning: Challenges, Methods, and Future Directions
+https://arxiv.org/pdf/1908.07873.pdf
+
 ## Adversarial Federated Learning (attacks and defenses):
 
 Beyond Inferring Class Representatives: User-Level Privacy Leakage From Federated Learning 
