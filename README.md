@@ -96,6 +96,9 @@ https://arxiv.org/pdf/1908.07873.pdf
 
 ## Adversarial Federated Learning (attacks and defenses):
 
+Comprehensive Privacy Analysis of Deep Learning: Stand-alone and Federated Learning under Passive and Active White-box Inference Attacks
+https://arxiv.org/abs/1812.00910
+
 Beyond Inferring Class Representatives: User-Level Privacy Leakage From Federated Learning 
 https://arxiv.org/pdf/1812.00535
 
