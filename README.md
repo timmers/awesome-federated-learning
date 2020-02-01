@@ -4,6 +4,9 @@ A curated list of resources dedicated to federated learning.
 Please feel free to [pull requests](https://github.com/timmers/awesome-federated-learning/pulls)
 # Papers and Code
 
+original paper: Communication-Efficient Learning of Deep Networks from Decentralized Data
+https://arxiv.org/abs/1602.05629
+
 Asynchronous Federated Optimization 
 https://arxiv.org/pdf/1903.03934
 
@@ -64,23 +67,11 @@ https://arxiv.org/pdf/1812.03224
 Applied Federated Learning: Improving Google Keyboard Query Suggestions 
 https://arxiv.org/pdf/1812.02903
 
-Differentially Private Data Generative Models 
-https://arxiv.org/pdf/1812.02274
-
-Protection Against Reconstruction and Its Applications in Private Federated Learning 
-https://arxiv.org/pdf/1812.00984
-
 Split learning for health: Distributed deep learning without sharing raw patient data 
 https://arxiv.org/pdf/1812.00564
 
-Beyond Inferring Class Representatives: User-Level Privacy Leakage From Federated Learning 
-https://arxiv.org/pdf/1812.00535
-
 LoAdaBoost:Loss-Based AdaBoost Federated Machine Learning on medical Data 
 https://arxiv.org/pdf/1811.12629
-
-Analyzing Federated Learning through an Adversarial Lens
-https://arxiv.org/pdf/1811.12470
 
 Communication-Efficient On-Device Machine Learning: Federated Distillation and Augmentation under Non-IID Private Data
 https://arxiv.org/pdf/1811.11479
@@ -90,3 +81,44 @@ https://arxiv.org/pdf/1811.09904
 
 Dancing in the Dark: Private Multi-Party Machine Learning in an Untrusted Setting 
 https://arxiv.org/pdf/1811.09712
+
+A Federated Learning Approach for Mobile Packet Classification
+https://arxiv.org/abs/1907.13113
+
+Collaborative Learning on the Edges: A Case Study on Connected Vehicles
+https://www.usenix.org/conference/hotedge19/presentation/lu
+
+Federated Learning for Time Series Forecasting Using Hybrid Model
+http://www.diva-portal.se/smash/get/diva2:1334629/FULLTEXT01.pdf
+
+Federated Learning: Challenges, Methods, and Future Directions
+https://arxiv.org/pdf/1908.07873.pdf
+
+## Adversarial Federated Learning (attacks and defenses):
+
+Comprehensive Privacy Analysis of Deep Learning: Stand-alone and Federated Learning under Passive and Active White-box Inference Attacks
+https://arxiv.org/abs/1812.00910
+
+Beyond Inferring Class Representatives: User-Level Privacy Leakage From Federated Learning 
+https://arxiv.org/pdf/1812.00535
+
+Exploiting Unintended Feature Leakage in Collaborative Learning
+https://arxiv.org/abs/1805.04049
+
+Analyzing Federated Learning through an Adversarial Lens
+https://arxiv.org/abs/1811.12470
+
+Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning
+https://arxiv.org/abs/1702.07464
+
+Protection Against Reconstruction and Its Applications in Private Federated Learning 
+https://arxiv.org/pdf/1812.00984
+
+Boosting Privately: Privacy-Preserving Federated Extreme Boosting for Mobile Crowdsensing
+https://arxiv.org/abs/1907.10218
+
+How To Backdoor Federated Learning
+https://arxiv.org/abs/1807.00459
+
+Differentially Private Data Generative Models 
+https://arxiv.org/pdf/1812.02274
