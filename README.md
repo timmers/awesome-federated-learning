@@ -94,6 +94,15 @@ http://www.diva-portal.se/smash/get/diva2:1334629/FULLTEXT01.pdf
 Federated Learning: Challenges, Methods, and Future Directions
 https://arxiv.org/pdf/1908.07873.pdf
 
+Learning Private Neural Language Modeling with Attentive Aggregation 
+https://arxiv.org/pdf/1812.07108
+
+Dynamic Sampling and Selective Masking for Communication-Efficient Federated Learning 
+https://arxiv.org/abs/2003.09603
+
+Decentralized Knowledge Acquisition for Mobile Internet Applications 
+https://link.springer.com/article/10.1007/s11280-019-00775-w 
+ 
 ## Adversarial Federated Learning (attacks and defenses):
 
 Comprehensive Privacy Analysis of Deep Learning: Stand-alone and Federated Learning under Passive and Active White-box Inference Attacks
