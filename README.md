@@ -122,3 +122,6 @@ https://arxiv.org/abs/1807.00459
 
 Differentially Private Data Generative Models 
 https://arxiv.org/pdf/1812.02274
+
+Local Model Poisoning Attacks to Byzantine-Robust Federated Learning
+https://www.usenix.org/system/files/sec20summer_fang_prepub.pdf
