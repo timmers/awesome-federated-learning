@@ -2,9 +2,9 @@
 📚 A curated collection of research papers, codes, tutorials and blogs on Federated Computing/Learning.
 # Contributing
 Please feel free to [pull requests](https://github.com/timmers/awesome-federated-learning/pulls)
-# Papers and Code
+# Papers:
 
-original paper: Communication-Efficient Learning of Deep Networks from Decentralized Data
+Original paper: Communication-Efficient Learning of Deep Networks from Decentralized Data
 https://arxiv.org/abs/1602.05629
 
 Asynchronous Federated Optimization 
@@ -112,7 +112,7 @@ https://arxiv.org/abs/2004.05843
 Towards Realistic Byzantine-Robust Federated Learning
 https://arxiv.org/abs/2004.04986
 
-## Blockchained Federated Learning ##
+## Blockchained Federated Learning:
 
 Blockchained On-Device Federated Learning
 https://arxiv.org/abs/1808.03949
@@ -148,3 +148,23 @@ https://arxiv.org/pdf/1812.02274
 
 An Overview of Federated Deep Learning Privacy Attacks and Defensive Strategies
 https://arxiv.org/abs/2004.04676
+
+## Code/Frameworks:
+
+PySyft 
+https://github.com/OpenMined/PySyft
+
+Tensorflow Federated 
+https://www.tensorflow.org/federated
+
+CrypTen 
+https://github.com/facebookresearch/CrypTen
+
+FATE 
+https://fate.fedai.org/
+
+DVC 
+https://dvc.org/
+
+LEAF 
+https://leaf.cmu.edu/
