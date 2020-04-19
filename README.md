@@ -1,5 +1,5 @@
 # awesome-federated-learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A curated list of resources dedicated to federated learning.
+📚 A curated collection of research papers, codes, tutorials and blogs on Federated Computing/Learning.
 # Contributing
 Please feel free to [pull requests](https://github.com/timmers/awesome-federated-learning/pulls)
 # Papers and Code
@@ -94,6 +94,29 @@ http://www.diva-portal.se/smash/get/diva2:1334629/FULLTEXT01.pdf
 Federated Learning: Challenges, Methods, and Future Directions
 https://arxiv.org/pdf/1908.07873.pdf
 
+Asymmetrically Vertical Federated Learning
+https://arxiv.org/abs/1808.03949
+
+On the Design of Communication Efficient Federated Learning over Wireless Networks
+https://arxiv.org/abs/2004.07351
+
+Secure Federated Learning in 5G Mobile Networks
+https://arxiv.org/abs/2004.06700
+
+Differentially Private AirComp Federated Learning with Power Adaptation Harnessing Receiver Noise
+https://arxiv.org/abs/2004.06337
+
+Federated Machine Learning for Intelligent IoT via Reconfigurable Intelligent Surface
+https://arxiv.org/abs/2004.05843
+
+Towards Realistic Byzantine-Robust Federated Learning
+https://arxiv.org/abs/2004.04986
+
+## Blockchained Federated Learning ##
+
+Blockchained On-Device Federated Learning
+https://arxiv.org/abs/1808.03949
+
 ## Adversarial Federated Learning (attacks and defenses):
 
 Comprehensive Privacy Analysis of Deep Learning: Stand-alone and Federated Learning under Passive and Active White-box Inference Attacks
@@ -122,3 +145,6 @@ https://arxiv.org/abs/1807.00459
 
 Differentially Private Data Generative Models 
 https://arxiv.org/pdf/1812.02274
+
+An Overview of Federated Deep Learning Privacy Attacks and Defensive Strategies
+https://arxiv.org/abs/2004.04676
