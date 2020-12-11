@@ -4,6 +4,9 @@
 Please feel free to [pull requests](https://github.com/timmers/awesome-federated-learning/pulls)
 # Papers:
 
+Flower: A Friendly Federated Learning Platform 
+https://arxiv.org/abs/2007.14390
+
 Original paper: Communication-Efficient Learning of Deep Networks from Decentralized Data
 https://arxiv.org/abs/1602.05629
 
@@ -150,6 +153,9 @@ An Overview of Federated Deep Learning Privacy Attacks and Defensive Strategies
 https://arxiv.org/abs/2004.04676
 
 ## Code/Frameworks:
+
+Flower
+https://flower.dev/
 
 PySyft 
 https://github.com/OpenMined/PySyft
