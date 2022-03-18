@@ -116,6 +116,10 @@ https://arxiv.org/abs/2004.04986
 
 Blockchained On-Device Federated Learning
 https://arxiv.org/abs/1808.03949
+Nevermined: Leveraging Blockchain to Unlock Data for Federated Learning with Flower
+https://github.com/nevermined-io/fl-demo/tree/master/image-classification-flower
+Food Waste Prevention for Hotels Using Federated Learning and Blockchain
+https://gitlab.com/Talan_Innovation_Factory/food-waste-prevention
 
 ## Adversarial Federated Learning (attacks and defenses):
 
